@@ -59,17 +59,17 @@ const Footer = () => {
                 
                 {/* Contact Info */}
                 <div className="mt-8 space-y-3">
-                  <a href="mailto:contact@glamnet.com" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
+                  <a href="mailto:contact@glamnest.com" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Mail className="w-5 h-5" />
                     </div>
-                    <span>contact@glamnet.com</span>
+                    <span>contact@glamnest.com</span>
                   </a>
-                  <a href="tel:1-800-GLAM-NET" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
+                  <a href="tel:1-800-GLAM-NEST" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Phone className="w-5 h-5" />
                     </div>
-                    <span>1-800-GLAM-NET</span>
+                    <span>1-800-GLAM-NEST</span>
                   </a>
                   <div className="flex items-center gap-3 text-background/80">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
@@ -221,7 +221,7 @@ const Footer = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6 }}
               >
-                © {new Date().getFullYear()} GLAM NET. All rights reserved. | Connecting the world through fiber optic excellence.
+                © {new Date().getFullYear()} GLAM NEST. All rights reserved. | Connecting the world through fiber optic excellence.
               </motion.p>
             </div>
           </div>

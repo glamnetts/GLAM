@@ -45,7 +45,7 @@ const About = () => {
               <h2 className="heading-editorial mb-8">Our Story</h2>
               <p className="text-editorial mb-6">
                 Founded with a vision to revolutionize cable and internet infrastructure, 
-                GLAM NET has grown from a regional fiber optic cable provider to a leader 
+                GLAM NEST has grown from a regional fiber optic cable provider to a leader 
                 in high-speed internet connectivity solutions.
               </p>
               <p className="text-editorial">

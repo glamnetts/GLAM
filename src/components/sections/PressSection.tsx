@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const pressReleases = [
   {
     date: "January 10, 2024",
-    title: "GLAM NET Announces Expansion to 15 New Markets",
+    title: "GLAM NEST Announces Expansion to 15 New Markets",
     excerpt: "The company will bring fiber optic service to an additional 2 million homes by end of year."
   },
   {

@@ -47,7 +47,7 @@ const Terms = () => {
             className="bg-background rounded-2xl shadow-lg p-8 md:p-12 mb-8"
           >
             <p className="text-muted-foreground text-lg leading-relaxed">
-              Welcome to GLAM NET. By accessing and using our cable and internet services, you agree to be bound by these Terms and Conditions. 
+              Welcome to GLAM NEST. By accessing and using our cable and internet services, you agree to be bound by these Terms and Conditions. 
               Please read them carefully before using our services.
             </p>
           </motion.div>
@@ -57,12 +57,12 @@ const Terms = () => {
               {
                 icon: CheckCircle,
                 title: "Acceptance of Terms",
-                content: `By accessing, browsing, or using GLAM NET services, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions, as well as our Privacy Policy.\n\nIf you do not agree to these terms, you must immediately discontinue use of our services. Your continued use of the services constitutes acceptance of any modifications to these terms.`
+                content: `By accessing, browsing, or using GLAM NEST services, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions, as well as our Privacy Policy.\n\nIf you do not agree to these terms, you must immediately discontinue use of our services. Your continued use of the services constitutes acceptance of any modifications to these terms.`
               },
               {
                 icon: FileText,
                 title: "Service Description",
-                content: `GLAM NET provides:\n\n• High-speed internet connectivity via fiber optic and cable infrastructure\n• Residential and commercial internet packages\n• Professional cable installation and maintenance services\n• Network infrastructure solutions\n• 24/7 technical support and customer service\n\nService availability, speeds, and features may vary based on your location, selected package, and network conditions. Actual speeds may differ from advertised speeds due to various factors.`
+                content: `GLAM NEST provides:\n\n• High-speed internet connectivity via fiber optic and cable infrastructure\n• Residential and commercial internet packages\n• Professional cable installation and maintenance services\n• Network infrastructure solutions\n• 24/7 technical support and customer service\n\nService availability, speeds, and features may vary based on your location, selected package, and network conditions. Actual speeds may differ from advertised speeds due to various factors.`
               },
               {
                 icon: AlertCircle,
@@ -123,7 +123,7 @@ const Terms = () => {
           >
             <h2 className="text-2xl font-bold text-foreground mb-4">Limitation of Liability</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              To the maximum extent permitted by law, GLAM NET shall not be liable for any indirect, incidental, 
+              To the maximum extent permitted by law, GLAM NEST shall not be liable for any indirect, incidental, 
               special, consequential, or punitive damages, including but not limited to loss of profits, data, use, or 
               other intangible losses resulting from:
             </p>
@@ -151,8 +151,8 @@ const Terms = () => {
               If you have any questions about these Terms and Conditions, please contact us:
             </p>
             <div className="text-muted-foreground space-y-2">
-              <p><strong>Email:</strong> legal@glamnet.com</p>
-              <p><strong>Phone:</strong> 1-800-GLAM-NET</p>
+              <p><strong>Email:</strong> legal@glamnest.com</p>
+              <p><strong>Phone:</strong> 1-800-GLAM-NEST</p>
               <p><strong>Address:</strong> 123 Fiber Optic Lane, Tech City, TC 12345</p>
             </div>
           </motion.div>

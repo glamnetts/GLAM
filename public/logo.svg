@@ -11,9 +11,9 @@
   <!-- Fiber optic wave -->
   <path d="M 5 30 Q 12.5 25 20 30 T 35 30 T 50 30" stroke="url(#gradient2)" stroke-width="1.5" fill="none" opacity="0.6"/>
   
-  <!-- Text: GLAM NET -->
+  <!-- Text: GLAM NEST -->
   <text x="65" y="28" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a1a1a" letter-spacing="2">GLAM</text>
-  <text x="65" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="300" fill="#6366f1" letter-spacing="3">NET</text>
+  <text x="65" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="300" fill="#6366f1" letter-spacing="3">NEST</text>
   
   <!-- Gradient definitions -->
   <defs>

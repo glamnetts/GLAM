@@ -33,7 +33,7 @@ const Logo = ({ variant = "dark", size = "md" }: LogoProps) => {
           opacity: 0.85
         }}
       >
-        NET
+        NEST
       </span>
     </div>
   );

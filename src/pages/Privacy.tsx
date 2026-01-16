@@ -47,7 +47,7 @@ const Privacy = () => {
             className="bg-background rounded-2xl shadow-lg p-8 md:p-12 mb-8"
           >
             <p className="text-muted-foreground text-lg leading-relaxed">
-              At GLAM NET, we are committed to protecting your privacy and ensuring the security of your personal information. 
+              At GLAM NEST, we are committed to protecting your privacy and ensuring the security of your personal information. 
               This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services.
             </p>
           </motion.div>
@@ -67,7 +67,7 @@ const Privacy = () => {
               {
                 icon: Users,
                 title: "Information Sharing and Disclosure",
-                content: `We do not sell your personal information to third parties. We may share your information only in the following circumstances:\n\n• With service providers who assist in operating our network and services\n• With payment processors to handle billing and transactions\n• When required by law, legal process, or government request\n• To protect the rights, property, or safety of GLAM NET, our users, or others\n• In connection with a merger, acquisition, or sale of assets\n• With your explicit consent for specific purposes`
+                content: `We do not sell your personal information to third parties. We may share your information only in the following circumstances:\n\n• With service providers who assist in operating our network and services\n• With payment processors to handle billing and transactions\n• When required by law, legal process, or government request\n• To protect the rights, property, or safety of GLAM NEST, our users, or others\n• In connection with a merger, acquisition, or sale of assets\n• With your explicit consent for specific purposes`
               },
               {
                 icon: Shield,
@@ -82,7 +82,7 @@ const Privacy = () => {
               {
                 icon: Mail,
                 title: "Contact Us",
-                content: `If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:\n\nGLAM NET Privacy Team\nEmail: privacy@glamnet.com\nPhone: 1-800-GLAM-NET\nAddress: 123 Fiber Optic Lane, Tech City, TC 12345\n\nWe will respond to your inquiry within 30 days.`
+                content: `If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:\n\nGLAM NEST Privacy Team\nEmail: privacy@glamnest.com\nPhone: 1-800-GLAM-NEST\nAddress: 123 Fiber Optic Lane, Tech City, TC 12345\n\nWe will respond to your inquiry within 30 days.`
               }
             ].map((section, index) => {
               const Icon = section.icon;

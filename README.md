@@ -1,4 +1,4 @@
-# GLAM NET - Fiber Optic Cable & Internet Solutions
+# GLAM NEST - Fiber Optic Cable & Internet Solutions
 
 Premium fiber optic cable and high-speed internet infrastructure provider.
 
