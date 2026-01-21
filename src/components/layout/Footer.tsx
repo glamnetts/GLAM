@@ -65,11 +65,11 @@ const Footer = () => {
                     </div>
                     <span>contact@glamnest.com</span>
                   </a>
-                  <a href="tel:1-800-GLAM-NEST" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
+                  <a href="tel:8336118310" className="flex items-center gap-3 text-background/80 hover:text-primary transition-colors group">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Phone className="w-5 h-5" />
                     </div>
-                    <span>1-800-GLAM-NEST</span>
+                    <span>833-611-8310</span>
                   </a>
                   <div className="flex items-center gap-3 text-background/80">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">

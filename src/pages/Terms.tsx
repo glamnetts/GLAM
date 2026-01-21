@@ -152,7 +152,7 @@ const Terms = () => {
             </p>
             <div className="text-muted-foreground space-y-2">
               <p><strong>Email:</strong> legal@glamnest.com</p>
-              <p><strong>Phone:</strong> 1-800-GLAM-NEST</p>
+              <p><strong>Phone:</strong> 833-611-8310</p>
               <p><strong>Address:</strong> 123 Fiber Optic Lane, Tech City, TC 12345</p>
             </div>
           </motion.div>
