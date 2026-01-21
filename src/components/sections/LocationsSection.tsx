@@ -5,25 +5,25 @@ const locations = [
   {
     city: "San Francisco",
     address: "123 Network Avenue, CA 94102",
-    phone: "833-611-8310",
+    phone: "(833)-611-8310",
     hours: "Mon-Fri: 9AM-6PM"
   },
   {
     city: "New York",
     address: "456 Data Center Way, NY 10001",
-    phone: "833-611-8310",
+    phone: "(833)-611-8310",
     hours: "Mon-Fri: 9AM-6PM"
   },
   {
     city: "London",
     address: "789 Fiber Lane, EC2A 4BX",
-    phone: "+44 20 7946 0100",
+    phone: "(833)-611-8310",
     hours: "Mon-Fri: 9AM-5PM GMT"
   },
   {
     city: "Singapore",
     address: "101 Connect Street, 018956",
-    phone: "+65 6123 4567",
+    phone: "(833)-611-8310",
     hours: "Mon-Fri: 9AM-6PM SGT"
   }
 ];

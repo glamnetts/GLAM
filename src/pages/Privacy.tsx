@@ -82,7 +82,7 @@ const Privacy = () => {
               {
                 icon: Mail,
                 title: "Contact Us",
-                content: `If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:\n\nGLAM NEST Privacy Team\nEmail: privacy@glamnest.com\nPhone: 833-611-8310\nAddress: 123 Fiber Optic Lane, Tech City, TC 12345\n\nWe will respond to your inquiry within 30 days.`
+                content: `If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:\n\nGLAM NEST Privacy Team\nEmail: privacy@glamnest.com\nPhone: (833)-611-8310\nAddress: 123 Fiber Optic Lane, Tech City, TC 12345\n\nWe will respond to your inquiry within 30 days.`
               }
             ].map((section, index) => {
               const Icon = section.icon;
